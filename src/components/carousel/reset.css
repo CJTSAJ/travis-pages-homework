@@ -1,0 +1,28 @@
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin: 0;padding: 0;}
+body{font-size:12px;}
+img{border:none;}
+li{list-style: none;}
+input,select,textarea{outline: none;}
+textarea{resize: none;}
+a{text-decoration: none;}
+/*清浮动*/
+.clearfix:after{content: "";display: block;clear: both;}
+.clearfix{zoom: 1;}
+
+.carousel {width: 900px; height: 600px; overflow: hidden; position: relative; cursor: pointer; margin-left: auto; margin-right: auto;}
+.imgList {width: 5400px; height: 600px; position: absolute; z-index: 1; left: -900px;}
+.imgList img {float: left;}
+
+.carousel a{cursor: pointer;text-align: center;line-height: 70px; font-size: 60px; width: 60px;
+  position: absolute; z-index: 2; top: 270px; background-color: RGBA(0,0,0,.3); color: #fff; display: none;}
+.carousel a:hover{background-color: RGBA(0,0,0,.7);}
+.carousel:hover a{display: block;}
+
+.prev {left: 0px;}
+.next {right: 0px;}
+
+.buttons {position: absolute; bottom: 0px; z-index: 2; margin-left: 0px;}
+.buttons span{cursor: pointer;float: left; width: 225px; height: 50px;background-color: RGBA(0,0,0,.3);
+   background: #333;opacity: 0.6;}
+
+.buttons .color{background-color:#FFBB00;}
