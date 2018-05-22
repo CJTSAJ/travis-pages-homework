@@ -57,7 +57,7 @@
 
         hotGroups: [
           {
-            img: '/static/img/run.png',
+            img: './static/img/run.png',
             name: ' 长者说的都队',
             competition: ' 12.9冬季长跑节',
             originator: ' 浓密一号',
@@ -66,7 +66,7 @@
             notEnough: false
            },
           {
-            img: '/static/img/水果.png',
+            img: './static/img/水果.png',
             name: ' 前端工程师 | 联系人',
             competition: ' 鲜果学院',
             originator: ' mk大佬',
@@ -77,7 +77,7 @@
         ],
         newGroups: [
           {
-            img: '/static/img/信息竞赛.png',
+            img: './static/img/信息竞赛.png',
             name: ' 虚拟化学实验室',
             competition: ' 第一届中国大学生VRAR开发大赛',
             time: '2017/12/25 13:00',
@@ -87,7 +87,7 @@
             notEnough: false
            },
           {
-            img: '/static/img/射箭1.png',
+            img: './static/img/射箭1.png',
             name: ' 射箭小分队',
             competition: ' 北美猎弓体验课',
             time: '2017/12/21 14:00',

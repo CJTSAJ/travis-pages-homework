@@ -68,8 +68,8 @@
     data(){
       return{
         info: {
-          img: '/static/img/射箭1.png',
-          img2: '/static/img/射箭.jpg',
+          img: './static/img/射箭1.png',
+          img2: './static/img/射箭.jpg',
           name: ' 射箭小分队',
           competition: ' 北美猎弓体验课',
           time: '2017/12/21 14:00',

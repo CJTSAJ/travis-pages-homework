@@ -28,7 +28,7 @@
       return{
         staGroups: [
           {
-            img: '/static/img/水果.png',
+            img: './static/img/水果.png',
             name: ' 前端工程师 | 联系人',
             competition: ' 鲜果学院',
             originator: ' mk大佬',
@@ -37,7 +37,7 @@
             notEnough: true
            },
           {
-            img: '/static/img/约.png',
+            img: './static/img/约.png',
             name: ' 前端工程师 | 网页设计师',
             competition: ' “交大约约”校园平台',
             originator: ' yueyue',

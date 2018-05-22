@@ -26,10 +26,10 @@
     name: 'carouselCompetition',
     data (){
       return{
-        imgUrl1:'/static/img/1.jpg',
-        imgUrl2:'/static/img/2.jpg',
-        imgUrl3:'/static/img/3.jpg',
-        imgUrl4:'/static/img/4.jpg',
+        imgUrl1:'./static/img/1.jpg',
+        imgUrl2:'./static/img/2.jpg',
+        imgUrl3:'./static/img/3.jpg',
+        imgUrl4:'./static/img/4.jpg',
         index:0,
         moveTime:500,      //位移总时间
         moveInterval:10,   //位移间隔时间

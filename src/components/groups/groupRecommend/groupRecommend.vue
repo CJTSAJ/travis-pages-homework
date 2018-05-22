@@ -29,7 +29,7 @@
       return{
         actGroups: [
           {
-            img: '/static/img/拍照.png',
+            img: './static/img/拍照.png',
             name: ' 拍照去呀',
             competition: ' 自由探索快闪光影照',
             time: '2017/12/19 13:00',
@@ -39,7 +39,7 @@
             notEnough: true
            },
           {
-            img: '/static/img/颁奖.png',
+            img: './static/img/颁奖.png',
             name: ' 有素拓诶',
             competition: ' 全国大学生数学建模竞赛颁奖典礼',
             time: ' 2017/12/22 12:00',

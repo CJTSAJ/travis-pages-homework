@@ -19,15 +19,15 @@
     data () {
       return{
         fws:[
-          {addr:"/static/img/head1.jpg",username:"username1",fans:"13"},
-          {addr:"/static/img/head1.jpg",username:"username2",fans:"14"},
-          {addr:"/static/img/head1.jpg",username:"username3",fans:"13"},
-          {addr:"/static/img/head1.jpg",username:"username4",fans:"13"},
-          {addr:"/static/img/head1.jpg",username:"username5",fans:"13"},
-          {addr:"/static/img/head1.jpg",username:"username6",fans:"13"},
-          {addr:"/static/img/head1.jpg",username:"username7",fans:"13"},
-          {addr:"/static/img/head1.jpg",username:"username8",fans:"13"}
-          
+          {addr:"./static/img/head1.jpg",username:"username1",fans:"13"},
+          {addr:"./static/img/head1.jpg",username:"username2",fans:"14"},
+          {addr:"./static/img/head1.jpg",username:"username3",fans:"13"},
+          {addr:"./static/img/head1.jpg",username:"username4",fans:"13"},
+          {addr:"./static/img/head1.jpg",username:"username5",fans:"13"},
+          {addr:"./static/img/head1.jpg",username:"username6",fans:"13"},
+          {addr:"./static/img/head1.jpg",username:"username7",fans:"13"},
+          {addr:"./static/img/head1.jpg",username:"username8",fans:"13"}
+
         ]
       }
     }

@@ -29,7 +29,7 @@
       return{
         recGroups: [
           {
-            img: '/static/img/证券.png',
+            img: './static/img/证券.png',
             name: ' -',
             competition: ' 中原证券2018校园招聘宣讲会',
             time: ' 2017/12/23',
@@ -39,7 +39,7 @@
             notEnough: false
            },
           {
-            img: '/static/img/微软.png',
+            img: './static/img/微软.png',
             name: ' ad-hoc PM Intern',
             competition: ' 【实习】微软上海招聘',
             time: ' 2017/12/27',

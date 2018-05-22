@@ -29,7 +29,7 @@
       return{
         compGroups: [
           {
-            img: '/static/img/信息竞赛.png',
+            img: './static/img/信息竞赛.png',
             name: ' 虚拟化学实验室',
             competition: ' 第一届中国大学生VRAR开发大赛',
             time: '2017/12/25 13:00',
@@ -39,7 +39,7 @@
             notEnough: false
            },
           {
-            img: '/static/img/游戏.png',
+            img: './static/img/游戏.png',
             name: ' 组队吃鸡',
             competition: ' 微软ID@Xbox梦想校园行游戏开发大赛',
             time: ' 2017/12/8 18:00',

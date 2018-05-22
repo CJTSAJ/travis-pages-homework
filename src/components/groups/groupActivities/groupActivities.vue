@@ -29,7 +29,7 @@
       return{
         actGroups: [
           {
-            img: '/static/img/射箭1.png',
+            img: './static/img/射箭1.png',
             name: ' 射箭小分队',
             competition: ' 北美猎弓体验课',
             time: '2017/12/21 14:00',
@@ -39,7 +39,7 @@
             notEnough: true
            },
           {
-            img: '/static/img/枫叶.png',
+            img: './static/img/枫叶.png',
             name: ' 去赏枫叶吧',
             competition: ' 天平山探银杏赏红枫',
             time: ' 2017/12/23 7:00',
