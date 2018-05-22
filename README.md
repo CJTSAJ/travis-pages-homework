@@ -1,4 +1,4 @@
-# travis实现CI/CD环境搭建与使用
+# travis CI + github pages自动部署vue.js项目 实现CI/CD
 ## 组员
 - CJTSAJ 陈江涛
 - FangLouhao 方娄昊
