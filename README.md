@@ -1,5 +1,10 @@
-#travis实现CI/CD环境搭建与使用
-##组员；陈江涛 方娄昊 刘泽宇 贾兴国 李琥
+# travis实现CI/CD环境搭建与使用
+## 组员
+- CJTSAJ 陈江涛
+- FangLouhao 方娄昊
+- Gilleo 刘泽宇
+- snake0 贾兴国
+- sheep1998 李琥
 
 **Travis是一款持续集成（Continuous Integration)服务，它能很好地和Github结合，每当代码更新时自动地触发集成过程。本小组通过使用travis-ci和github page服务，搭建vue框架下的nodejs项目，用yaml格式配置，实现“提交代码->自动测试->自动部署"的集成链条。本期作业的前一个项目中，我们小组完成了travis+heroku的CI/CD手动部署，链接为[travis+heroku](https://github.com/CJTSAJ/cicd-homework)，本项目为CI/CD自动部署的实现，以下为具体实现过程。**
 ***
