@@ -47,7 +47,7 @@ exports.cssLoaders = function (options) {
     if (options.extract) {
       return ExtractTextPlugin.extract({
         use: loaders,
-        publicPath: '../',
+        publicPath: '/travis-pages-homework'
         fallback: 'vue-style-loader'
       })
     } else {
