@@ -31,3 +31,7 @@
 
 <font color=#0099dd size=5 face="黑体">6.上传.travis.yml文件后，自动测试、自动部署成功。可以点击以下链接进入[travis自动部署](https://cjtsaj.github.io/travis-pages-homework)</font>
 ![图七](PPT_pic/7.jpg)
+
+
+
+[![Build Status](https://www.travis-ci.org/CJTSAJ/travis-pages-homework.svg?branch=master)](https://www.travis-ci.org/CJTSAJ/travis-pages-homework)
